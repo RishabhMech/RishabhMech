@@ -3,11 +3,13 @@
 #  <br>
 
 ```diff
-- text in red
 + text in green
-! text in orange
-# text in gray
-@@ HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger @@
+$ jhgmhgj
+%bmbmn
+^hbmbm
+&j7,b,m
+*,,,,mn,mnn
+@ HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger
 ```
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
