@@ -1,5 +1,5 @@
 
-![Image description here](https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif "Welcome to my GitHub")
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Bharath-Img_Intro.gif "Welcome to my GitHub")
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
