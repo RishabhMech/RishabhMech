@@ -1,6 +1,6 @@
 
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/The_best_stats_you_ve_ever_seen_Hans_Rosling.gif)
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/The_best_stats_you_ve_ever_seen_Hans_Rosling.gif)
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Hans_Rosling.gif)
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Hans_Rosling.gif)
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/IMG_7.jpg)
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
