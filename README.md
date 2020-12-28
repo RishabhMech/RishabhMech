@@ -15,10 +15,8 @@
       <th class='tg-0pky'>
         <div class='center'>
           <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
-          <a href="https://the7pm.wordpress.com/">#The 7pm</a> 
+          <a href="https://www.linkedin.com/in/innovationgrid/">#The 7pm</a> 
           </p>&mdash; Rishabh Pandey
-          <a href="https://www.linkedin.com/in/innovationgrid/"> </a>
-          </blockquote> <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
         </div>
       </th>
       <th class='tg-0pky'>
