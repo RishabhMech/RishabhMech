@@ -1,7 +1,7 @@
 
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/The_best_stats_you_ve_ever_seen_Hans_Rosling.gif "Welcome to my GitHub")
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/The_best_stats_you_ve_ever_seen_Hans_Rosling.gif)
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/IMG_20180912_140527.jpg)
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/IMG_7.jpg)
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
@@ -17,8 +17,8 @@
     <tr>
       <th class='tg-0pky'>
         <div class='center'>
-          <a href="https://www.linkedin.com/in/innovationgrid/"> 'Afterall an innovation starts with a conversation!' </a> 
-          </p>&mdash; Rishabh Pandey
+          <a href="https://www.linkedin.com/in/innovationgrid/"> 'After all, an innovation starts with a conversation!' </a> 
+          </p>&mdash; Rishabh.Pandey
         </div>
       </th>
       <th class='tg-0pky'>
