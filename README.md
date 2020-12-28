@@ -1,6 +1,6 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
  
-<font size="6"
+<font size="60"
           face="verdana"
           color="blue"> 
             GeeksforGeeks! 
