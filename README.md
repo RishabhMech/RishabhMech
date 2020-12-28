@@ -1,4 +1,11 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
+ 
+<font size="6"
+          face="verdana"
+          color="green"> 
+            GeeksforGeeks! 
+        </font> 
+    <br> 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
