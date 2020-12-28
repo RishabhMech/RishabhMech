@@ -2,7 +2,7 @@
  
 <font size="6"
           face="verdana"
-          color="green"> 
+          color="blue"> 
             GeeksforGeeks! 
         </font> 
     <br> 
