@@ -1,5 +1,5 @@
 
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/The_best_stats_you_ve_ever_seen_Hans_Rosling.gif "Welcome to my GitHub")
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/The_best_stats_you_ve_ever_seen_Hans_Rosling.gif)
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/The_best_stats_you_ve_ever_seen_Hans_Rosling.gif)
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/IMG_7.jpg)
 
@@ -10,7 +10,7 @@
 #### I am a continuous practitioner of the learning-by-doing philosophy and extend this to any problem in these spheres, and aim to provide a value to any project I am tasked, or task myself upon. <br>
 ####
 
-> ### **Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT <br> <br>
+> ### Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT <br> <br>
 > #### Learn | Explore | Practice <br> <br>
 
 <table class='tg'>
