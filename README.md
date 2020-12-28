@@ -7,7 +7,7 @@
 
 #### I am a continuous practitioner of the learning-by-doing philosophy and extend this to any problem in these spheres, and aim to provide a value to any project I am tasked (or task myself) upon. On the same note, my projects include the following: <br>
 
-> ## Python, SQL, PySpark, Autodesk, GitHub, and IoT, not limited to, are a few of my preferred tech stack to Learn |Explore |Practice. <br> <br>
+> ## Python|SQL|PySpark|Autodesk|GitHub|IoT, not limited to, are a few of my preferred tech stack to Learn |Explore |Practice. <br> <br>
 
 <table class='tg'>
   <thead>
@@ -15,7 +15,7 @@
       <th class='tg-0pky'>
         <div class='center'>
           <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
-          <a href="https://www.linkedin.com/in/innovationgrid/">#The 7pm</a> 
+          <a href="https://www.linkedin.com/in/innovationgrid/">#innovation-grid</a> 
           </p>&mdash; Rishabh Pandey
         </div>
       </th>
