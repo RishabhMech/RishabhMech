@@ -8,9 +8,9 @@
 #### Spending most of time on research, reading and implementing research papers on Data Sciences, IoT and Natural Language Processing domains, I constantly try to figure new applications for an idea, and I try to be informed about the latest tech developments. <br>
 
 #### I am a continuous practitioner of the learning-by-doing philosophy and extend this to any problem in these spheres, and aim to provide a value to any project I am tasked, or task myself upon. <br>
-###
+####
 
-> ### Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT <br> <br>
+> ### **Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT <br> <br>
 > #### Learn | Explore | Practice <br> <br>
 
 <table class='tg'>
