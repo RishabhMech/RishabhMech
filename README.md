@@ -1,5 +1,5 @@
 
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/the-best-stats-youve-ever-seen-hans-rosling-pgR5TI?position=1#.gif "Welcome to my GitHub")
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/the-best-stats-youve-ever-seen-hans-rosling.gif "Welcome to my GitHub")
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
@@ -15,7 +15,7 @@
     <tr>
       <th class='tg-0pky'>
         <div class='center'>
-          <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
+          <p lang="en" dir="ltr"> Afterall an innovation starts with a conversation!” 
           <a href="https://www.linkedin.com/in/innovationgrid/"> innovation grid </a> 
           </p>&mdash; Rishabh Pandey
         </div>
