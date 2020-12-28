@@ -9,6 +9,7 @@
 
 #### I am a continuous practitioner of the learning-by-doing philosophy and extend this to any problem in these spheres, and aim to provide a value to any project I am tasked, or task myself upon. <br>
 
+
 > ### Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT <br> <br>
 > #### Learn | Explore | Practice <br> <br>
 
