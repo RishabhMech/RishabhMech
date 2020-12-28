@@ -26,5 +26,5 @@
         <h2> Feel free to explore my repositories! </h2>
       <th>
     </tr>
-  </thead>
+  </thead> 
 </table> 
