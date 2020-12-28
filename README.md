@@ -1,8 +1,5 @@
-<p align='center'>
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
- </p>
-
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
@@ -19,6 +16,7 @@
     <tr>
       <th class='tg-0pky'>
         <div class='center'>
+          <a href="https://the7pm.wordpress.com/"> Give some ♥ on wordpress! </a>
           <a href="https://www.linkedin.com/in/innovationgrid/"> 'After all, an innovation starts with a conversation!' </a> 
           </p>&mdash; rishabh.pandey
         </div>
