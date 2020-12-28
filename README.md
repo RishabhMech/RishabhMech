@@ -1,11 +1,6 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
- 
-<font size="60"
-          face="verdana"
-          color="blue"> 
-            GeeksforGeeks! 
-        </font> 
-    <br> 
+  
+<a href="https://the7pm.wordpress.com/"> Give some ♥ on wordpress! </a> 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
