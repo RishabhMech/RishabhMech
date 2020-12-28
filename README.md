@@ -1,13 +1,13 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
 
-# HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
+#  <br>
 
 ```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
-@@ text in purple (and bold)@@
+@@ HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger @@
 ```
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
