@@ -1,5 +1,6 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
-<body style="background-color:powderblue;">Trainee Data Scientist at HiTech iSolutions LLP | MSRIT | Literary Blogger
+<body style="background-color:powderblue;">
+##Trainee Data Scientist at HiTech iSolutions LLP | MSRIT | Literary Blogger
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
 #### Spending most of time on research, reading and implementing research papers on Data Sciences, IoT and Natural Language Processing domains, I constantly try to figure new applications for an idea, and I try to be informed about the latest tech developments. <br>
