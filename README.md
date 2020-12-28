@@ -1,8 +1,4 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
-  
-<a href="https://www.hitechdigital.com/"> # HiTech iSolutions LLP |  </a> 
-<a href="http://msrit.edu/"> # MSRIT |  </a> 
-<a href="https://the7pm.wordpress.com/"> Literary Blogger </a> 
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
 
