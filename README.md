@@ -17,8 +17,7 @@
     <tr>
       <th class='tg-0pky'>
         <div class='center'>
-          <p lang="en" dir="ltr"> 'Afterall an innovation starts with a conversation!' 
-          <a href="https://www.linkedin.com/in/innovationgrid/"> innovation grid </a> 
+          <a href="https://www.linkedin.com/in/innovationgrid/"> 'Afterall an innovation starts with a conversation!' </a> 
           </p>&mdash; Rishabh Pandey
         </div>
       </th>
