@@ -1,6 +1,13 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
 # HiTech iSolutions LLP   |   MSRIT   |    Wordpress <br>
  
+ <body>
+
+<h1 style="background-color:powderblue;">HiTech iSolutions LLP   |   MSRIT   |    Wordpress</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
+
+</body>
+
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
 #### Spending most of time on research, reading and implementing research papers on Data Sciences, IoT and Natural Language Processing domains, I constantly try to figure new applications for an idea, and I try to be informed about the latest tech developments. <br>
