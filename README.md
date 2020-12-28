@@ -2,6 +2,7 @@
 ![Image description here](https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif "Welcome to my GitHub")
 ## I'm an Aspiring Data Scientist with a strong analytical background, and 4+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions. #The_Bharatha <br>
 
+## ![Image description here](https://raw.githubusercontent.com/username/name of the repository/branch/file name.gif "Alt text here")
 ## I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges on LeetCode and HackerRank. <br>
 
 > ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my preferred tech stack to learn, explore, practice Machine Learning. <br> <br>
