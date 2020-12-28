@@ -1,12 +1,7 @@
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
-# HiTech iSolutions LLP   |   MSRIT   |    Wordpress <br>
- 
- <body>
+<p align='center'>![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
+# HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
+ </p>
 
-<h1 style="background-color:powderblue;">HiTech iSolutions LLP   |   MSRIT   |    Wordpress</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
-
-</body>
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
@@ -24,7 +19,7 @@
       <th class='tg-0pky'>
         <div class='center'>
           <a href="https://www.linkedin.com/in/innovationgrid/"> 'After all, an innovation starts with a conversation!' </a> 
-          </p>&mdash; Rishabh.Pandey
+          </p>&mdash; rishabh.pandey
         </div>
       </th>
       <th class='tg-0pky'>
