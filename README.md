@@ -2,6 +2,7 @@
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
 
+<a href="javascript:alert('Hello World!');">Execute JavaScript</a>
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
 #### Spending most of time on research, reading and implementing research papers on Data Sciences, IoT and Natural Language Processing domains, I constantly try to figure new applications for an idea, and I try to be informed about the latest tech developments. <br>
