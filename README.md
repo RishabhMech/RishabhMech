@@ -1,5 +1,5 @@
 <p align='center'>
-[Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/dy_dy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
  </p>
 
