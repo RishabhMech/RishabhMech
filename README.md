@@ -1,4 +1,8 @@
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif)  ![Image description here]class='center' (https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg)
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif)  ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg" />
+</p>
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
 
