@@ -32,7 +32,7 @@
         </div>
       </th>
       <th class='tg-0pky'>
-        <h2> <u>Feel free to explore my repositories! </u></h2>
+        <a href="https://github.com/RishabhMech?tab=repositories"> Feel free to explore my repositories! </a>
       <th>
     </tr>
   </thead> 
