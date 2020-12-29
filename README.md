@@ -32,7 +32,7 @@
         </div>
       </th>
       <th class='tg-0pky'>
-        <a href="https://github.com/RishabhMech?tab=repositories"> Feel free to explore my repositories! </a>
+        <a href="https://github.com/RishabhMech?tab=repositories"> 🎈Feel free to explore my repositories! </a>
       <th>
     </tr>
   </thead> 
