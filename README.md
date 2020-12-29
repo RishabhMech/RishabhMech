@@ -27,6 +27,11 @@
         </div>
       </th>
       <th class='tg-0pky'>
+        <div class='center'>
+          <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif" /> 
+        </div>
+      </th>
+      <th class='tg-0pky'>
         <h2> Feel free to explore my repositories! </h2>
       <th>
     </tr>
