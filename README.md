@@ -1,4 +1,4 @@
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/board.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage.jpg)
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/board.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg)
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
 
