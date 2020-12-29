@@ -1,6 +1,6 @@
 ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif)
 
-<p align="left">
+<p align="right">
   <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg" />
 </p>
 
