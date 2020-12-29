@@ -1,7 +1,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif" />
-  <align="right">
-  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg" />
+  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.net-resizeimage (1).jpg" />
 </p>
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
