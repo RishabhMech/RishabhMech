@@ -14,7 +14,7 @@
 #### 
 
 > ### Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT <br> <br>
-> #### Learn | Explore | Practice <br> <br>
+> #### Learn | Explore | Practice <br>
 
 <table class='tg'>
   <thead>
