@@ -1,4 +1,4 @@
-![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg)
+![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/new_resize.jpg) ![Image description here](https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/board.gif)
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
 
