@@ -8,7 +8,7 @@
     <tr>
       <th class='tg-0pky'>
         <div class='left'>
-         <h1><b> HiTech iSolutions LLP | MSRIT | Literary Blogger </b></h1> 
+         <h2><b> HiTech iSolutions LLP | MSRIT | Literary Blogger </b></h2> 
           </p>
         </div>
       </th>
