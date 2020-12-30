@@ -31,8 +31,8 @@
 #### I am a continuous practitioner of the learning-by-doing philosophy and extend this to any problem in these spheres, and aim to provide a value to any project I am tasked, or task myself upon. <br>
   ---
 
->> <h2><b>Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT </b></h2>
->> <h3>Learn | Explore | Practice </h3>
+> <h2><b>Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT </b></h2>
+> <h3>Learn | Explore | Practice </h3>
 
 <table class='tg'>
   <thead>
