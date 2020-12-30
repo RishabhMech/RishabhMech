@@ -46,11 +46,11 @@
       </th>
       <th class='tg-0pky'>
         <div class='center'>
-          <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/board.gif" /> 
+          <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/board.gif"/> 
         </div>
       </th>
       <th class='tg-0pky'>
-        <a href="https://github.com/RishabhMech?tab=repositories"> 🎈Feel free to explore my repositories! </a>
+        <a href="https://github.com/RishabhMech?tab=repositories"> 🎈Feel free to explore my repositories!</a>
       <th>
     </tr>
   </thead> 
