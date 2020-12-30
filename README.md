@@ -8,8 +8,7 @@
 <a href="https://twitter.com/Rishabh44493617"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/instasterone_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013407612994"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://the7pm.wordpress.com/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/wordpress.png?raw=true"></a>
 </p>
 
