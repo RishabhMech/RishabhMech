@@ -24,9 +24,6 @@
   </thead> 
 </table>    
 
-
-
-
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
 #### As a trainee data scientist at HiTech iSolutions, and otherwise, I entertain most of time on research, reading and implementing research papers on Data Sciences, IoT and Natural Language Processing domains, I constantly try to figure new applications for an idea, and I try to be informed about the latest tech developments. <br>
