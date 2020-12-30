@@ -3,14 +3,9 @@
   <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg" />
 </p>
 
-# HiTech iSolutions LLP | MSRIT | Literary Blogger
- <p>
-  <img width="50" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
-
-<p align='right'>
+<p>
 <h1 align='left'> HiTech iSolutions LLP | MSRIT | Literary Blogger </h1>
-<a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/linkedin.png"></a>&nbsp;&nbsp;
+<a align='right' href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013407612994"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/instasterone_"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://the7pm.wordpress.com/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/wordpress.png"></a>
