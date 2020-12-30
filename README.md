@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg" />
 </p>
 
-# HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger <br>
+# HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger
 <p align='right'>
 <a href="https://twitter.com/Rishabh44493617"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/instasterone_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
