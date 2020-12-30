@@ -5,10 +5,10 @@
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger
 <p align='right'>
-<a href="https://twitter.com/Rishabh44493617"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/instasterone_"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013407612994"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Rishabh44493617"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/instasterone_"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100013407612994"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://the7pm.wordpress.com/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/wordpress.png"></a>
 </p>
 
