@@ -5,7 +5,7 @@
 
 <p>
 <h1 align="left"> HiTech iSolutions LLP | MSRIT | Literary Blogger </h1>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/linkedin.png" align="top"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/linkedin.png" align="right"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013407612994"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/facebook.png" align="right"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/instasterone_"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/instagram.png" align="right"></a>&nbsp;&nbsp;
 <a href="https://the7pm.wordpress.com/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/wordpress.png" align="right"></a>
@@ -13,6 +13,10 @@
 </p>
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
+<div id="textbox">
+  <p class="alignleft">Text on the left.</p>
+  <p class="alignright">Text on the right.</p>
+</div>
 
 #### As a trainee data scientist at HiTech iSolutions, and otherwise, I entertain most of time on research, reading and implementing research papers on Data Sciences, IoT and Natural Language Processing domains, I constantly try to figure new applications for an idea, and I try to be informed about the latest tech developments. <br>
 
