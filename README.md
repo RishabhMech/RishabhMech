@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg" />
 </p>
 
-# HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger
+# HiTech iSolutions LLP | MSRIT | Literary Blogger
  <p>
   <img width="50" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
