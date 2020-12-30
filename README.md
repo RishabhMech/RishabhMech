@@ -4,6 +4,10 @@
 </p>
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+
 <p align='right'>
 <a href="https://www.linkedin.com/in/innovationgrid/"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013407612994"><img height="30" src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/facebook.png"></a>&nbsp;&nbsp;
