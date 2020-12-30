@@ -32,7 +32,7 @@
   ---
 
 > <h2><b>Python  |  SQL  |  PySpark  |  Autodesk  |  GitHub  |  IoT </b></h2>
-> #### Learn | Explore | Practice <br>
+> <h2>Learn | Explore | Practice </h2>
 
 <table class='tg'>
   <thead>
