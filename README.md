@@ -5,7 +5,7 @@
 
 # HiTech iSolutions LLP   |   MSRIT   |    Literary Blogger
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="50" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
 
 <p align='right'>
