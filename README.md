@@ -1,5 +1,5 @@
 <p align="left">
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/giphy.gif" />
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Data Science-1.gif" />
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg" />
 </p>
 
