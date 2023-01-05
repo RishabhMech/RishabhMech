@@ -42,7 +42,7 @@
         <div class='center'>
           <a href="https://the7pm.wordpress.com/"> Show some ♥ on wordpress! </a>
           <a href="https://www.linkedin.com/in/innovationgrid/"> After all, an innovation starts with a conversation! </a> 
-          </p>&mdash; rishabh.pandey
+          </p>&mdash; rishabh pandey
         </div>
       </th>
       <th class='tg-0pky'>
