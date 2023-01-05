@@ -1,9 +1,3 @@
-<p align="left">
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Data Science-1.gif" />
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg" />
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg" />
-</p>
-
 <table class='tg'>
   <thead>
     <tr>
@@ -24,6 +18,12 @@
     </tr>
   </thead> 
 </table>    
+
+<p align="left">
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Data Science-1.gif" />
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg" />
+</p>
+
 
 #### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
 
