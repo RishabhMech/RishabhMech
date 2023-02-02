@@ -20,7 +20,7 @@
 </table>    
 
 <p align="left">
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/DS-100.gif"/>
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/sg25_196x270.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/sd25_196x270.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg"/>
 </p>
