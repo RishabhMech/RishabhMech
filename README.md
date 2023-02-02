@@ -24,7 +24,6 @@
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl4.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl6.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg"/>
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/lp780.jpg"/>
 </p>
 
 
