@@ -21,6 +21,7 @@
 
 <p align="left">
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/DS-100.gif"/>
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/andrea-de-santis-zwd435-ewb4-unsplash.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg"/>
 </p>
 
