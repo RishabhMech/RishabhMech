@@ -22,7 +22,7 @@
 <p align="left">
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl1.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl4.jpg"/>
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl5.jpg"/>
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl6.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg"/>
 </p>
 
