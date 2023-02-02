@@ -21,7 +21,7 @@
 
 <p align="left">
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl1.jpg"/>
- <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/sd25_196x270.jpg"/>
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/kl2.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/gk89.jpg"/>
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg"/>
 </p>
