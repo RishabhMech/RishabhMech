@@ -21,6 +21,7 @@
 
 <p align="left">
  <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/DS-100.gif"/>
+ <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Webp.jpg"/>
 </p>
 
 
