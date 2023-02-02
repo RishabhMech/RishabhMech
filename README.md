@@ -25,15 +25,15 @@
 </p>
 
 
-#### I believe in extracting valuable insights and telling stories using data. I believe that statistics, used in coherence with our imagination, can do wonders! <br>
+#### As a Data Scientist at Jio Platforms Ltd., and otherwise, I entertain most of the time reading and implementing research papers on Data Sciences, Neural Networks, ChatOps and IoT domains. <br>
 
-#### As a Data Scientist at HiTech Digital, and otherwise, I entertain most of time on research, reading and implementing research papers on Data Sciences, IoT and Natural Language Processing domains, I constantly try to figure new applications for an idea, and I try to be informed about the latest tech developments. <br>
+#### I am a continuous practitioner of learning-by-doing philosophy and extend this to the problems in different spheres, aiming to provide a value to any project I am tasked, or I task myself upon. I entertain extracting valuable insights and telling stories using your data. <br>
 
-#### I am a continuous practitioner of the learning-by-doing philosophy and extend this to any problem in these spheres, and aim to provide a value to any project I am tasked, or task myself upon. <br>
+#### I believe your statistics, used in coherence with my imagination, can do mutual wonders!! <br>
   ---
 
 > <h2><b>Python  |  SQL  |  PySpark  |  Fusion 360  |  Git  |  IoT </b></h2>
-> <h3>Learn | Explore | Practice </h3>
+> <h3>Explore | Research | Learn </h3>
 
 <table class='tg'>
   <thead>
