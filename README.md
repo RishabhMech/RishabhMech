@@ -49,7 +49,7 @@
       </th>
       <th class='tg-0pky'>
         <div class='center'>
-          <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/board.gif"/> 
+          <img src="https://raw.githubusercontent.com/RishabhMech/RishabhMech/master/Graph.gif"/> 
         </div>
       </th>
       <th class='tg-0pky'>
